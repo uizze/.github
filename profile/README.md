@@ -28,6 +28,16 @@ Add the local UI Slop Gate to pull requests:
 
 The Action runs inside the GitHub runner and checks changed frontend files for inert controls, missing states, token drift, and generic UI cues. It does not upload source, screenshots, or findings.
 
+## GitHub distribution
+
+The [canonical distribution map](https://github.com/uizze/uizze/blob/main/DISTRIBUTION.md) tracks UIZZE's public directory submissions, install copy, MCP records, and GitHub-native discovery surfaces.
+
+- [Free anti-UI-slop Skill](https://uizze.com/ai-ui-slop)
+- [Free deterministic MCP preview](https://uizze.com/mcp/preview)
+- [GitHub Action](https://github.com/uizze/uizze/tree/main/integrations/github-action)
+- [Official MCP Registry record](https://github.com/mcp/uizze/uizze)
+- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18044327)
+
 ## Full UIZZE
 
 Use the hosted MCP when live UI references, design contracts, validation, audits, or rendered critique will materially improve the next decision:
