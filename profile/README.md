@@ -37,7 +37,7 @@ The [canonical distribution map](https://github.com/uizze/uizze/blob/main/DISTRI
 - [GitHub Action](https://github.com/uizze/uizze/tree/main/integrations/github-action)
 - [Official MCP Registry record](https://github.com/mcp/uizze/uizze)
 - [UIZZE on skills.sh](https://www.skills.sh/site/uizze.com/anti-ui-slop) (free install listing; the page reported 335.6K installs on 2026-08-17)
-- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18048512)
+- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18048586)
 
 ## Full UIZZE
 
