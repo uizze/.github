@@ -36,7 +36,7 @@ The [canonical distribution map](https://github.com/uizze/uizze/blob/main/DISTRI
 - [Free deterministic MCP preview](https://uizze.com/mcp/preview)
 - [GitHub Action](https://github.com/uizze/uizze/tree/main/integrations/github-action)
 - [Official MCP Registry record](https://github.com/mcp/uizze/uizze)
-- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18044977)
+- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18045216)
 
 ## Full UIZZE
 
