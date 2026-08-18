@@ -47,9 +47,10 @@ The [canonical distribution map](https://github.com/uizze/uizze/blob/main/DISTRI
 - [Datawhale Hello-Agents community chapter](https://github.com/datawhalechina/hello-agents/pull/819) (73,000+ star Chinese agent-building tutorial; adds a practical UI quality chapter with the free Skill first and optional 800,000+ workflow clearly separated; maintainer review pending)
 - [GitHubDaily recommendation](https://github.com/GitHubDaily/GitHubDaily/issues/1030) (47,000+ star Chinese developer-discovery repository; the recommendation leads with the free Skill, preview MCP, GitHub Action, and separate 800,000+ full-workflow scope)
 - [Wshobson Agents plugin marketplace](https://github.com/wshobson/agents/pull/658) (38,000+ star multi-harness marketplace; approved and mergeable PR proposing the canonical free Skill across Claude Code, Codex CLI, Cursor, OpenCode, Copilot, and Gemini CLI)
+- [OpenAI Codex curated marketplace request](https://github.com/openai/codex/issues/39168) (106,000+ star official Codex repository; issue-based review request for the canonical UIZZE plugin, free Skill, and no-account preview)
 - Additional high-reach routes under review: [Anthropic Agent Skills](https://github.com/anthropics/skills/pull/1595) (170,000+ stars), [Claude Code Best Practice](https://github.com/shanraisshan/claude-code-best-practice/pull/187) (64,000+ stars), [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code/issues/2548) (52,000+ stars), [Awesome Actions](https://github.com/sdras/awesome-actions/pull/899) (28,000+ stars), and [Awesome Design](https://github.com/gztchan/awesome-design/pull/229) (17,000+ stars)
 - [UIZZE on skills.sh](https://www.skills.sh/site/uizze.com/anti-ui-slop) (free install listing; the page reports 348.5K installs on 2026-08-18, a third-party directory metric rather than a UIZZE product-usage claim)
-- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18062119)
+- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18062303)
 
 ## Full UIZZE
 
