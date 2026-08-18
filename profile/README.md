@@ -36,6 +36,7 @@ The [canonical distribution map](https://github.com/uizze/uizze/blob/main/DISTRI
 - [Free deterministic MCP preview](https://uizze.com/mcp/preview)
 - [GitHub Action](https://github.com/uizze/uizze/tree/main/integrations/github-action)
 - [Official MCP Registry record](https://github.com/mcp/uizze/uizze)
+- [Developer Resources](https://github.com/marcelscruz/dev-resources) (UIZZE is merged into this active 1,300+ star developer-resources list via [PR #1170](https://github.com/marcelscruz/dev-resources/pull/1170))
 - [Agent Skill Index listing](https://github.com/heilcheng/awesome-agent-skills/pull/420) (6,110-star directory; maintainer review pending)
 - Featured directory routes under review: [Awesome Codex Skills](https://github.com/composio-community/awesome-codex-skills/pull/236) (15,896 stars), [GreatFrontEnd Front-End System Design](https://github.com/greatfrontend/awesome-front-end-system-design/pull/9) (8,400+ stars), and [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers/pull/10946) (92,000+ stars)
 - [UIZZE on skills.sh](https://www.skills.sh/site/uizze.com/anti-ui-slop) (free install listing; the page reports 348.5K installs on 2026-08-18, a third-party directory metric rather than a UIZZE product-usage claim)
