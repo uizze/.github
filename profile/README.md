@@ -41,10 +41,10 @@ The [canonical distribution map](https://github.com/uizze/uizze/blob/main/DISTRI
 - [Agency Agents UI Finish-Gate Reviewer](https://github.com/msitarzewski/agency-agents/blob/main/design/design-ui-finish-gate-reviewer.md) (live in the 146,000+ star Agency Agents directory via merged [PR #742](https://github.com/msitarzewski/agency-agents/pull/742); canonical Skill refresh is tracked in [PR #792](https://github.com/msitarzewski/agency-agents/pull/792))
 - [Build with Claude](https://github.com/davepoon/buildwithclaude) (live in the 3,300+ star Claude discovery hub via merged [PR #249](https://github.com/davepoon/buildwithclaude/pull/249); public copy is synchronized with UIZZE in merged [PR #251](https://github.com/davepoon/buildwithclaude/pull/251))
 - [Agent Skill Index listing](https://github.com/heilcheng/awesome-agent-skills/pull/420) (6,110-star directory; maintainer review pending)
-- Featured directory routes under review: [Awesome Codex Skills](https://github.com/composio-community/awesome-codex-skills/pull/236) (15,896 stars), [GreatFrontEnd Front-End System Design](https://github.com/greatfrontend/awesome-front-end-system-design/pull/9) (8,400+ stars), and [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers/pull/10946) (92,000+ stars)
+- Featured directory routes under review: [Awesome Codex Skills](https://github.com/composio-community/awesome-codex-skills/pull/236) (15,896 stars), [GreatFrontEnd Front-End System Design](https://github.com/greatfrontend/awesome-front-end-system-design/pull/9) (8,400+ stars), [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers/pull/10946) (92,000+ stars), and [Awesome DevOps MCP Servers](https://github.com/rohitg00/awesome-devops-mcp-servers/pull/316) (1,018 stars; Continuous Integration)
 - Additional high-reach routes under review: [Anthropic Agent Skills](https://github.com/anthropics/skills/pull/1595) (170,000+ stars), [Claude Code Best Practice](https://github.com/shanraisshan/claude-code-best-practice/pull/187) (64,000+ stars), [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code/issues/2548) (52,000+ stars), [Awesome Actions](https://github.com/sdras/awesome-actions/pull/899) (28,000+ stars), and [Awesome Design](https://github.com/gztchan/awesome-design/pull/229) (17,000+ stars)
 - [UIZZE on skills.sh](https://www.skills.sh/site/uizze.com/anti-ui-slop) (free install listing; the page reports 348.5K installs on 2026-08-18, a third-party directory metric rather than a UIZZE product-usage claim)
-- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18060242)
+- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18061088)
 
 ## Full UIZZE
 
@@ -58,7 +58,7 @@ Use the hosted MCP when live UI references, design contracts, validation, audits
 
 ## Find UIZZE on GitHub
 
-- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18060242)
+- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18061088)
 - [Full distribution map](https://github.com/uizze/uizze/blob/main/DISTRIBUTION.md)
 - [Latest release](https://github.com/uizze/uizze/releases/latest)
 
