@@ -38,7 +38,7 @@ The [canonical distribution map](https://github.com/uizze/uizze/blob/main/DISTRI
 - [Official MCP Registry record](https://github.com/mcp/uizze/uizze)
 - [Agent Skill Index listing](https://github.com/heilcheng/awesome-agent-skills/pull/420) (6,110-star directory; maintainer review pending)
 - [UIZZE on skills.sh](https://www.skills.sh/site/uizze.com/anti-ui-slop) (free install listing; the page reports 348.5K installs on 2026-08-18, a third-party directory metric rather than a UIZZE product-usage claim)
-- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18059783)
+- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18060242)
 
 ## Full UIZZE
 
@@ -52,7 +52,7 @@ Use the hosted MCP when live UI references, design contracts, validation, audits
 
 ## Find UIZZE on GitHub
 
-- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18059783)
+- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18060242)
 - [Full distribution map](https://github.com/uizze/uizze/blob/main/DISTRIBUTION.md)
 - [Latest release](https://github.com/uizze/uizze/releases/latest)
 
