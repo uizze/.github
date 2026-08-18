@@ -38,4 +38,10 @@ Use the hosted MCP when live UI references, design contracts, validation, audits
 - [Full MCP](https://uizze.com/mcp)
 - [Public repository](https://github.com/uizze/uizze)
 
+## Find UIZZE on GitHub
+
+- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18059482)
+- [Full distribution map](https://github.com/uizze/uizze/blob/main/DISTRIBUTION.md)
+- [Latest release](https://github.com/uizze/uizze/releases/latest)
+
 Use real screens as evidence, not templates. Keep the product's own brand, components, content, and design system.
