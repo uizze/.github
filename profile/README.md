@@ -44,9 +44,10 @@ The [canonical distribution map](https://github.com/uizze/uizze/blob/main/DISTRI
 - Featured directory routes under review: [Awesome Codex Skills](https://github.com/composio-community/awesome-codex-skills/pull/236) (15,896 stars), [GreatFrontEnd Front-End System Design](https://github.com/greatfrontend/awesome-front-end-system-design/pull/9) (8,400+ stars), [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers/pull/10946) (92,000+ stars), and [Awesome DevOps MCP Servers](https://github.com/rohitg00/awesome-devops-mcp-servers/pull/316) (1,018 stars; Continuous Integration)
 - [Awesome Agentic Patterns contribution](https://github.com/nibzard/awesome-agentic-patterns/pull/134) (4,888-star pattern catalogue; generalized Rendered UI Finish Gate with UIZZE disclosed as one known implementation)
 - [Chinese Agentic AI catalogue submission](https://github.com/WenyuChiou/awesome-agentic-ai-zh/pull/111) (5,300-star trilingual agentic-AI roadmap; proposes the free MIT anti-ui-slop Skill in its Design catalog, with the optional 800,000+ workflow clearly separated; maintainer review pending)
+- [Datawhale Hello-Agents community chapter](https://github.com/datawhalechina/hello-agents/pull/819) (73,000+ star Chinese agent-building tutorial; adds a practical UI quality chapter with the free Skill first and optional 800,000+ workflow clearly separated; maintainer review pending)
 - Additional high-reach routes under review: [Anthropic Agent Skills](https://github.com/anthropics/skills/pull/1595) (170,000+ stars), [Claude Code Best Practice](https://github.com/shanraisshan/claude-code-best-practice/pull/187) (64,000+ stars), [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code/issues/2548) (52,000+ stars), [Awesome Actions](https://github.com/sdras/awesome-actions/pull/899) (28,000+ stars), and [Awesome Design](https://github.com/gztchan/awesome-design/pull/229) (17,000+ stars)
 - [UIZZE on skills.sh](https://www.skills.sh/site/uizze.com/anti-ui-slop) (free install listing; the page reports 348.5K installs on 2026-08-18, a third-party directory metric rather than a UIZZE product-usage claim)
-- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18061510)
+- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18061709)
 
 ## Full UIZZE
 
@@ -60,7 +61,7 @@ Use the hosted MCP when live UI references, design contracts, validation, audits
 
 ## Find UIZZE on GitHub
 
-- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18061305)
+- [Latest distribution discussion](https://github.com/uizze/uizze/discussions/44#discussioncomment-18061709)
 - [Full distribution map](https://github.com/uizze/uizze/blob/main/DISTRIBUTION.md)
 - [Latest release](https://github.com/uizze/uizze/releases/latest)
 
