@@ -2,16 +2,26 @@
 
 > **Stop AI coding agents from shipping generic UI.**
 
-UIZZE gives coding agents a compact local UI workflow plus optional focused
+UIZZE gives coding agents four compact local UI workflows plus optional focused
 references from 800,000+ real web and iOS screens.
 
-## Install the free skill
+## Install a free skill
+
+Use `ui-design` for broad design and implementation work:
+
+```bash
+npx skills add https://uizze.com --skill ui-design
+```
+
+Use `anti-ui-slop` for a focused generic-UI finish gate:
 
 ```bash
 npx skills add https://uizze.com --skill anti-ui-slop
 ```
 
-The skill works without an account, token, script, or MCP connection.
+Production publishes `anti-ui-slop`, `ui-design`, `ui-radar`, and
+`ui-slop-score`. They work without an account, token, script, or MCP
+connection.
 
 ## Connect the paid MCP
 
