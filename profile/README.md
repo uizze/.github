@@ -45,7 +45,7 @@ not upload source.
 
 - [Product](https://uizze.com)
 - [Public repository](https://github.com/uizze/uizze)
-- [Official MCP Registry](https://github.com/mcp/uizze/uizze)
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=uizze)
 - [Agent Skills index](https://uizze.com/.well-known/agent-skills/index.json)
 - [MCP manifest](https://uizze.com/.well-known/mcp.json)
 - [Privacy](https://uizze.com/privacy)
