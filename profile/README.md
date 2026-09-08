@@ -1,52 +1,45 @@
-# UIZZE
+# UIZZE · Better UI for coding agents
 
-> **Stop AI coding agents from shipping generic UI.**
+**Build interfaces that look like your product.** Give Codex, Claude Code, Cursor, and GitHub Copilot a focused UI workflow, with optional references from **800,000+ real web and iOS screens**.
 
-UIZZE gives coding agents compact local UI workflows plus optional focused
-references from 800,000+ real web and iOS screens.
+[![Stop Making UI Slop with UIZZE](https://uizze.com/landing/anti-ui-slop-skill-banner.png)](https://uizze.com/?utm_source=github&utm_medium=organization&utm_campaign=discovery&utm_content=profile_banner)
 
-## Install a free skill
+[**Explore UIZZE →**](https://uizze.com/?utm_source=github&utm_medium=organization&utm_campaign=discovery&utm_content=profile_product) · [Public repository](https://github.com/uizze/uizze) · [Try a workflow](https://github.com/uizze/uizze/blob/main/examples/agent-workflows.md)
 
-Use `ui-design` for broad design and implementation work:
+## Start with your next screen
 
 ```bash
 npx skills add https://uizze.com --skill ui-design
 ```
 
-Use `anti-ui-slop` for a focused generic-UI finish gate:
+Then ask your agent:
 
-```bash
-npx skills add https://uizze.com --skill anti-ui-slop
+```text
+Use ui-design to improve this screen. Make the primary action clear,
+reuse our components and design tokens, finish the required states,
+and inspect the result at desktop and mobile sizes.
 ```
 
-Production publishes `anti-ui-slop`, `ui-design`, and `ui-radar`. They work
-without an account, token, script, or MCP connection.
+The three free skills work without an account or MCP connection:
 
-## Connect the paid MCP
+| Skill | Use it for |
+| --- | --- |
+| [ui-design](https://github.com/uizze/uizze/tree/main/skills/ui-design) | Build, redesign, and polish web or mobile interfaces |
+| [anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) | Fix generic layouts, weak hierarchy, and unfinished states |
+| [ui-radar](https://github.com/uizze/uizze/tree/main/skills/ui-radar) | Investigate a UI decision with a focused reference workflow |
 
-The authenticated MCP at `https://uizze.com/mcp` exposes two tools:
+## Bring real references into the agent
 
-- `find_ui_references` for a few focused full-screen references.
-- `find_ui_materials` for hosted fonts, icons, animated icons, or explicitly
-  requested packs.
+The optional paid MCP provides full-screen reference search and hosted design materials through `find_ui_references` and `find_ui_materials`. Use examples to inform your own product's hierarchy, controls, and state handling.
 
-Empty retrieval is an intentional no-op. See the [setup documentation](https://uizze.com/docs).
+[Connect the MCP →](https://github.com/uizze/uizze/tree/main/integrations/mcp) · [GitHub MCP Registry](https://github.com/mcp/uizze/uizze)
 
-## GitHub Action
+## Add a check to your pull requests
 
-```yaml
-- uses: uizze/uizze@v1
-```
+The free [UI Slop Gate Action](https://github.com/uizze/uizze/tree/main/integrations/github-action) checks changed frontend source for inert controls, missing state markers, and design-token drift. It runs locally with no account or source upload.
 
-The action performs a conservative source check on the GitHub runner and does
-not upload source.
+[Inspect actual example output →](https://github.com/uizze/uizze/blob/main/examples/pull-request-check.md)
 
-## Links
+You can also install the [UIZZE plugin from GitHub Awesome Copilot](https://github.com/github/awesome-copilot/tree/main/plugins/uizze).
 
-- [Product](https://uizze.com)
-- [Public repository](https://github.com/uizze/uizze)
-- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=uizze)
-- [Agent Skills index](https://uizze.com/.well-known/agent-skills/index.json)
-- [MCP manifest](https://uizze.com/.well-known/mcp.json)
-- [Privacy](https://uizze.com/privacy)
-- [Terms](https://uizze.com/terms)
+[Documentation](https://uizze.com/docs) · [License map](https://github.com/uizze/uizze/blob/main/LICENSING.md) · [Privacy](https://uizze.com/privacy) · [Terms](https://uizze.com/terms)
